@@ -1,0 +1,5 @@
+Vivado Simulator 2016.4
+Time resolution is 1 ps
+Stopped at time : 2800 ns : File "H:/lab_5/FirstMipsVersion_tb.vhd" Line 35
+ at time : 440 ns : File "H:/lab_5/DataMemory_tb.vhd" Line 64
+Stopped at time : 440 ns : File "H:/lab_5/DataMemory_tb.vhd" Line 64

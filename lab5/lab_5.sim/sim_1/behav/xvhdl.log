@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/lab_5/DataMemory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DataMemory
+INFO: [VRFC 10-163] Analyzing VHDL file "H:/lab_5/DataMemory_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DataMemory_tb
